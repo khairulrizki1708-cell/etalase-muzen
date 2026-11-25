@@ -1,0 +1,6 @@
+{
+  "name": "MUZEN — Authentic Mozzarella Corndog & Hotang",
+  "description": "Warung Delivery Order eksklusif MUZEN dengan Signature Corndog Mozarella dan Premium Hotang Mozarella.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
